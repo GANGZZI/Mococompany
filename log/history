@@ -1,0 +1,17 @@
+2022.07.14 beta version
+  guild deploy
+2022.07.15 beta 1.1
+  optimizing db
+2022.07.22 beta 1.2
+  debug auto reset
+  segmentation of functionality (homework)
+  add function (synergy)
+2022.07.27
+  issue #1 : scheduled update failed
+  원인: 로아 공식웹사이트 점검으로 레벨 정보 수집 실패
+  주간 리셋 시간을 점검 10분 전으로 변경
+  issue #2 : 숙제 기능 최적화
+2022.08.24
+  일리아칸 레이드 업데이트
+2022.09.16
+  모코콤퍼니 명령어 원복
